@@ -19,6 +19,8 @@ public class cal_switch {
             case '*': System.out.println("Multiplication is"+(a*b));
             break;
             case '/': System.out.println("division is "+(a/b));
+            break
+            case   
             break;
             default: System.out.println("inout invaild");
 
